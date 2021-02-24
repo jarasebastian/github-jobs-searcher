@@ -9,6 +9,8 @@ A little CLI to search jobs with Github
 Our CLI will use [the API de Github](https://jobs.github.com/) to search jobs
 For our CLI can work we should send some search options/parameters.
 
+More info about the API here: https://jobs.github.com/api
+
 The way to invocate our CLI will be:
 
 
